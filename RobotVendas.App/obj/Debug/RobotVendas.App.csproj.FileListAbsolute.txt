@@ -1,0 +1,6 @@
+F:\Laboratorio\RobotVendas\RobotVendas.App\bin\Debug\RobotVendas.App.exe.config
+F:\Laboratorio\RobotVendas\RobotVendas.App\bin\Debug\RobotVendas.App.exe
+F:\Laboratorio\RobotVendas\RobotVendas.App\bin\Debug\RobotVendas.App.pdb
+F:\Laboratorio\RobotVendas\RobotVendas.App\obj\Debug\RobotVendas.App.csprojResolveAssemblyReference.cache
+F:\Laboratorio\RobotVendas\RobotVendas.App\obj\Debug\RobotVendas.App.exe
+F:\Laboratorio\RobotVendas\RobotVendas.App\obj\Debug\RobotVendas.App.pdb
