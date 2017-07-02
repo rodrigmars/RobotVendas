@@ -1,0 +1,5 @@
+F:\Laboratorio\RobotVendas\RobotVendas.Console\bin\Debug\RobotVendas.Console.exe.config
+F:\Laboratorio\RobotVendas\RobotVendas.Console\bin\Debug\RobotVendas.Console.exe
+F:\Laboratorio\RobotVendas\RobotVendas.Console\bin\Debug\RobotVendas.Console.pdb
+F:\Laboratorio\RobotVendas\RobotVendas.Console\obj\Debug\RobotVendas.Console.exe
+F:\Laboratorio\RobotVendas\RobotVendas.Console\obj\Debug\RobotVendas.Console.pdb

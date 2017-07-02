@@ -1,0 +1,5 @@
+F:\Laboratorio\RobotVendas\RobotVendas.Tests\bin\Debug\RobotVendas.Tests.dll
+F:\Laboratorio\RobotVendas\RobotVendas.Tests\bin\Debug\RobotVendas.Tests.pdb
+F:\Laboratorio\RobotVendas\RobotVendas.Tests\obj\Debug\RobotVendas.Tests.csprojResolveAssemblyReference.cache
+F:\Laboratorio\RobotVendas\RobotVendas.Tests\obj\Debug\RobotVendas.Tests.dll
+F:\Laboratorio\RobotVendas\RobotVendas.Tests\obj\Debug\RobotVendas.Tests.pdb
