@@ -1,5 +1,13 @@
 F:\Laboratorio\RobotVendas\RobotVendas.Tests\bin\Debug\RobotVendas.Tests.dll
 F:\Laboratorio\RobotVendas\RobotVendas.Tests\bin\Debug\RobotVendas.Tests.pdb
-F:\Laboratorio\RobotVendas\RobotVendas.Tests\obj\Debug\RobotVendas.Tests.csprojResolveAssemblyReference.cache
+F:\Laboratorio\RobotVendas\RobotVendas.Tests\bin\Debug\xunit.abstractions.dll
+F:\Laboratorio\RobotVendas\RobotVendas.Tests\bin\Debug\xunit.assert.dll
+F:\Laboratorio\RobotVendas\RobotVendas.Tests\bin\Debug\xunit.core.dll
+F:\Laboratorio\RobotVendas\RobotVendas.Tests\bin\Debug\xunit.execution.desktop.dll
+F:\Laboratorio\RobotVendas\RobotVendas.Tests\bin\Debug\xunit.abstractions.xml
+F:\Laboratorio\RobotVendas\RobotVendas.Tests\bin\Debug\xunit.assert.xml
+F:\Laboratorio\RobotVendas\RobotVendas.Tests\bin\Debug\xunit.core.xml
+F:\Laboratorio\RobotVendas\RobotVendas.Tests\bin\Debug\xunit.execution.desktop.xml
 F:\Laboratorio\RobotVendas\RobotVendas.Tests\obj\Debug\RobotVendas.Tests.dll
 F:\Laboratorio\RobotVendas\RobotVendas.Tests\obj\Debug\RobotVendas.Tests.pdb
+F:\Laboratorio\RobotVendas\RobotVendas.Tests\obj\Debug\RobotVendas.Tests.csprojResolveAssemblyReference.cache
