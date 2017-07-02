@@ -10,7 +10,7 @@ namespace RobotVendas.App
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Version 0.1");
+            Console.WriteLine("Version 0");
         }
     }
 }
