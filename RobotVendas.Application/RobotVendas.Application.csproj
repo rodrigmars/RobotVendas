@@ -31,13 +31,20 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
-    <Reference Include="System.Core" />
-    <Reference Include="Microsoft.CSharp" />
-    <Reference Include="System.Net.Http" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AppBase.cs" />
+    <Compile Include="Interfaces\IAppBase.cs" />
+    <Compile Include="Interfaces\IProdutoApp.cs" />
+    <Compile Include="Interfaces\IVendaApp.cs" />
     <Compile Include="VendasApp.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\RobotVendas.Domain\RobotVendas.Domain.csproj">
+      <Project>{0cf7bdb6-eb6c-4116-b075-fef76ddc0924}</Project>
+      <Name>RobotVendas.Domain</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -1,5 +1,7 @@
 F:\Laboratorio\RobotVendas\RobotVendas.Application\bin\Debug\RobotVendas.Application.dll
 F:\Laboratorio\RobotVendas\RobotVendas.Application\bin\Debug\RobotVendas.Application.pdb
+F:\Laboratorio\RobotVendas\RobotVendas.Application\bin\Debug\RobotVendas.Domain.dll
+F:\Laboratorio\RobotVendas\RobotVendas.Application\bin\Debug\RobotVendas.Domain.pdb
 F:\Laboratorio\RobotVendas\RobotVendas.Application\obj\Debug\RobotVendas.Application.csprojResolveAssemblyReference.cache
 F:\Laboratorio\RobotVendas\RobotVendas.Application\obj\Debug\RobotVendas.Application.dll
 F:\Laboratorio\RobotVendas\RobotVendas.Application\obj\Debug\RobotVendas.Application.pdb

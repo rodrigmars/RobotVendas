@@ -1,19 +1,23 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
+﻿using RobotVendas.Application.Interfaces;
+using RobotVendas.Domain.Entities;
+using System;
 namespace RobotVendas.Application
 {
-    public class VendasApp
+    public class VendasApp : AppBase<Venda>, IVendaApp
     {
+        readonly IVendaApp _vendaApp;
 
-        public bool DiaUtil() {
+        public VendasApp(IVendaApp vendaApp) : base(vendaApp)
+        {
+            _vendaApp = vendaApp;
+        }
+
+        public bool DiaUtil()
+        {
 
             var days = DateTime.DaysInMonth(DateTime.Now.Year, DateTime.Now.Month);
 
-            return true; 
+            return true;
         }
     }
 }
